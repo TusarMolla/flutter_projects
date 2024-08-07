@@ -7,4 +7,17 @@
   Ecommerce Customer App
 </h1>
 <p>Auth pages</p>
-<img src="https://github.com/TusarMolla/flutter_projects/blob/main/ecommerce_customer_app/ss/1.jpg" alt="isolated" width="200"/>
+
+
+<table>
+  <tr>
+    <td>Login Page</td>
+     <td>Registration Page</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/TusarMolla/flutter_projects/blob/main/ecommerce_customer_app/ss/1.jpg" alt="isolated" width="300"/></td>
+    <td valign="top"><img src="https://github.com/TusarMolla/flutter_projects/blob/main/ecommerce_customer_app/ss/2.jpg" alt="isolated" width="300"/></td>
+  </tr>
+ </table>
+
+
