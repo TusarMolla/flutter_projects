@@ -19,14 +19,9 @@ class AppConfig {
   static String mobile_app_code = "en";
   static bool app_language_rtl = false;
 
-  //configure this
 
-  // static const DOMAIN_PATH =
-  //     "192.168.6.1/ecommerce_with_addons"; //inside a folder
   static const DOMAIN_PATH =
-      ""; //localhost
-  // static const DOMAIN_PATH =
-  //     "192.168.6.1/ecommerce_with_addons"; //inside a folder
+      "";
 
   //do not configure these below
   static const String API_ENDPATH = "api/v2";
