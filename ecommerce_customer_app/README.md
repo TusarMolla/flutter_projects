@@ -7,4 +7,4 @@
   Ecommerce Customer App
 </h1>
 <p>Auth pages</p>
-<img src="https://github.com/TusarMolla/flutter_projects/ss/1.jpg" alt="isolated" width="200"/>
+<img src="https://github.com/TusarMolla/flutter_projects/blob/main/ecommerce_customer_app/ss/1.jpg" alt="isolated" width="200"/>
